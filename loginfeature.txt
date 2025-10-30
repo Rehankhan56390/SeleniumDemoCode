@@ -2,4 +2,3 @@ this is login page book
 I added some text
 Login the page
 login with valid email
-Login with phone number
